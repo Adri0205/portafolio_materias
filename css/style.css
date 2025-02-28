@@ -12,11 +12,11 @@ footer {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 45px;
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 40px;
 }
 
 h3 {
@@ -33,7 +33,7 @@ section {
 }
 
 .sectionOne {
-    width: 1054px;
+    width: 1110px;
     height: 445px;
     background-color: #e6d3a6;
     border-radius: 40px;
@@ -59,7 +59,6 @@ section article {
     margin: 0 10px;
     padding: 10px;
     border-radius: 20px;
-
 }
 
 section article img {
@@ -76,7 +75,6 @@ section article ul {
     padding: 6px 0px;
     border-radius: 20px;
     background-color: #e9edc9;
-    ;
 }
 
 a {
@@ -87,6 +85,7 @@ a {
     text-decoration: none;
     display: inline-block;
     border-radius: 5px;
+    border: 1px solid #756747;
     margin: 10px;
 }
 
